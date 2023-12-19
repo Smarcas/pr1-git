@@ -51,6 +51,5 @@ public class Fraction {
         int temporal = this.getNumerador();
         this.setNumerador(this.getDenominador());
         this.setDenominador(temporal);
-        System.out.println(this);
     }
 }
