@@ -1,0 +1,1 @@
+En realidad, lo que ocurre es que solo se encuentra el archivo de manera local porque lo hemos borrado de los archivos del proyecto en GitHub, pero no se borran también de manera local. Solo en la nube.
